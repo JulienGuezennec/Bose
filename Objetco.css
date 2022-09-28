@@ -1,0 +1,104 @@
+header.tete{
+    background-color: black;
+}
+
+h1.titre{
+    font-size: 300%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+ul.objet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 150%;
+    color: white;
+    background-color: black;
+}
+
+
+
+
+div.divcasque{
+   display: flex;
+   flex-direction: row; 
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+div.divcasque2{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+ div.divecouteur{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ div.divenceinte{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: space-evenly;
+ }
+
+section.item{
+    margin-left: 2%;
+    
+}
+
+img.casque{
+    width: 35%;
+}
+
+
+ul.descrcasque1{
+    font-size: 150%;
+    
+}
+
+img.casque2{
+    width: 25%;
+}
+
+ul.descrcasque2{
+  font-size: 150%; 
+}
+
+
+img.ecouteur{
+    width: 25%;
+}
+
+
+ul.descrecouteur{
+    width: 150%;   
+}
+
+img.enceinte{
+    width: 25%;
+}
+
+ul.descrenceinte{
+   font-size: 150%; 
+}
+
+footer.end{
+    background-color: black;
+}
+
+p.texte{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
